@@ -1,4 +1,4 @@
-﻿//MakeChange.cs converts whole dollar amounts into change equivalents using the command line
+//MakeChange.cs converts whole dollar amounts into change equivalents using the command line
 //Jonathan Groberg 5/26/22
 using static System.Console;
 using System;
