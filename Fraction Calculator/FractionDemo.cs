@@ -1,4 +1,4 @@
-﻿//FractionDemo.cs is a Console Application that instantiates several Fraction objects and demonstrates that their methods work correctly.
+//FractionDemo.cs is a Console Application that instantiates several Fraction objects and demonstrates that their methods work correctly.
 //The Fraction class contains fields that hold a whole number, a numerator, and a denominator and has constructors that can be instantiated with any none, some, or all corresponding parameters.
 //Jonathan Groberg  6/20/22
 
